@@ -5,7 +5,9 @@ import java.util.Arrays;
 public class RemoveDuplicateFromSortedArray {
     public static int removeDuplicate(int[] num){
 //        Arrays.sort(num);
-        int j = 1;
+
+        int j = 1; //Constraints 1 <= nums.length <= 3 * 104
+
         for(int i = 1; i < num.length; i++){
             if(num[i] != num[i-1]){
                 num[j] = num[i];

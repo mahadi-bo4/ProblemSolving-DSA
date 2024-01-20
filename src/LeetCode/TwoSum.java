@@ -28,6 +28,8 @@ public class TwoSum {
         for(int n : twoSum(nums,target)){
             System.out.println(n);
         }
-
     }
+
 }
+
+

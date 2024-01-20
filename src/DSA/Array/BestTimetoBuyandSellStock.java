@@ -28,10 +28,10 @@ public class BestTimetoBuyandSellStock {
         return maxProfit;
     }
 
-    public static void main(String[] args) {
-            int prices[] = { 7, 5, 8, 6, 4 };
-            int n = prices.length;
-            int max_profit = maxProfit(prices, n);
-            System.out.println(max_profit);
-    }
+    // public static void main(String[] args) {
+    //         int prices[] = { 7, 5, 8, 6, 4 };
+    //         int n = prices.length;
+    //         int max_profit = maxProfit(prices, n);
+    //         System.out.println(max_profit);
+    // }
 }

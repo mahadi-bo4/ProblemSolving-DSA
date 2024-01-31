@@ -31,7 +31,7 @@ The solutions are implemented in various programming languages (Right now only o
 
 Feel free to connect with me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mahadi-hasan-535b9218a/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahadi-hasan-535b9218a/)
 - Email: mahadihasanbo4@gmail.com
 
 Happy coding! 🚀
